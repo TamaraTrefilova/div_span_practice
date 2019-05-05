@@ -1,0 +1,36 @@
+.first_paragraph{
+  color: red;
+  width: 75%;
+  font-style:normal;
+  font-family: cursive;
+  font-weight: lighter;
+}
+
+.second_paragraph{
+  color: blue;
+  width: 75%;
+  font-style: normal;
+  font-family: cursive;
+  font-weight: lighter;
+}
+
+.third_paragraph{
+  color: green;
+  width: 75%;
+  font-style: normal;
+  font-family: cursive;
+  font-weight: lighter;
+}
+.inline{
+  color: black;
+  width: 100;
+  font-style: italic;
+  font-weight: bold;
+}
+.forth_paragraph{
+  color: orange;
+  width: 75%;
+  font-style: normal;
+  font-family: cursive;
+  font-weight: lighter;
+}
