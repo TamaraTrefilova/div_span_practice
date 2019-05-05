@@ -34,3 +34,12 @@
   font-family: cursive;
   font-weight: lighter;
 }
+
+img{
+  float: center;
+}
+ .sidebar{
+   width: 30%;
+   float: left;
+   background-color: yellow;
+ }

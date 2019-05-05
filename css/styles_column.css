@@ -1,0 +1,13 @@
+.column{
+  width: 300px;
+  float: inherit;
+  background-color: red
+}
+
+.my_class{
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+  text-align:left;
+}
