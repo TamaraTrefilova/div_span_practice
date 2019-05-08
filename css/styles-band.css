@@ -27,14 +27,10 @@ h2 {
   float: left;
 }
 
-.my_class {
-  float: inherit;
-}
-
 .column {
   font-size: 15;
   font-style: normal;
   font-family: sans-serif;
   color: #191970;
-  text-align:inherit;
+  text-align:left;
 }
