@@ -1,0 +1,40 @@
+body {
+  max-height: 90%;
+  width: 90%;
+  margin: 10px;
+  background-color: #87CEFA;
+  padding: 25px;
+}
+
+h1 {
+  color: #00008B;
+  text-align: center;
+  font-size: 40;
+  font-style: normal;
+  font-family: fantasy;
+}
+
+h2 {
+  color: #3850B3;
+  float: left;
+  font-size: 30;
+  font-style: normal;
+  font-family: fantasy;
+  margin: 50px;
+}
+
+.photo {
+  float: left;
+}
+
+.my_class {
+  float: inherit;
+}
+
+.column {
+  font-size: 15;
+  font-style: normal;
+  font-family: sans-serif;
+  color: #191970;
+  text-align:inherit;
+}
